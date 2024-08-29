@@ -1,8 +1,7 @@
-class Test{
-	
-	public static void main(String[] args){
-		int a=10;
-		a="Rahul";
-		System.out.println(a);
-	}
-}
+class A{}
+class B{}
+class C{}
+class D{}
+class E{}
+class F{}
+class G{}
