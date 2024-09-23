@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2914c9c-aecc-43f7-8ff5-8554b2f00373" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/TestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/pack1/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/pack1/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/pack1/TestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/pack2/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS2/pack2/TestTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS3/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS3/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS3/TestThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS3/TestThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS3/TestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS4-abstract/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AMS4-abstract/TestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AbstractEx/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AbstractEx/AccountOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/AbstractEx/SA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/SA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/Test-1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/TestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/InterfaceEx/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/accessmodifiers/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/accessmodifiers/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/accessmodifiers/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/accessmodifiers/pack1/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/accessmodifiers/pack1/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/accessmodifiers/pack2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/ams/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/ams/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifier-All/ams/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/conditional/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/conditional/TestFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/conditional/TestFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/conditional/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/conditional/TestThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/conditional/TestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/Test-Five.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/Test-Four.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/Test-Three.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/Test-Two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowSt/iterativeSt/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance-simple/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestSix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-12-IterativeSt/TestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packageEx/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packageEx/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packageEx/TestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packageEx/pack1/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packageEx/pack1/TestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packageEx/pack2/TestTwo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2mKHK57pIhHq87kdsDmUoIm4zMK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Java45/Part2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2914c9c-aecc-43f7-8ff5-8554b2f00373" name="Changes" comment="" />
+      <created>1726818288833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726818288833</updated>
+      <workItem from="1726818291827" duration="104000" />
+      <workItem from="1726818410727" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
