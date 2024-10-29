@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics-10/AccessModifier-All/AccessModifier-All.iml" filepath="$PROJECT_DIR$/Basics-10/AccessModifier-All/AccessModifier-All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-10/Basics-10.iml" filepath="$PROJECT_DIR$/Basics-10/Basics-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-10/ControlFlowSt/ControlFlowSt.iml" filepath="$PROJECT_DIR$/Basics-10/ControlFlowSt/ControlFlowSt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java45.iml" filepath="$PROJECT_DIR$/Java45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/OOP/OOP.iml" filepath="$PROJECT_DIR$/Part2/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/Part2.iml" filepath="$PROJECT_DIR$/Part2/Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part3/Part3.iml" filepath="$PROJECT_DIR$/Part3/Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part4/Part4.iml" filepath="$PROJECT_DIR$/Part4/Part4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-10/class-4-DTs/class-4-DTs.iml" filepath="$PROJECT_DIR$/Basics-10/class-4-DTs/class-4-DTs.iml" />
+    </modules>
+  </component>
+</project>
