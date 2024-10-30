@@ -1,7 +1,5 @@
-package untitled.src.LinkedHashSetEx;
+package CF.src.LinkedHashSetEx;
 
-import java.awt.*;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.*;
 import java.util.List;
