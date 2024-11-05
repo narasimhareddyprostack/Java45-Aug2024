@@ -3,7 +3,7 @@ package FI;
 @FunctionalInterface
 interface DaoI{
     public abstract   void login();
-    public abstract   void logout();
+    //public abstract   void logout();
 
 }
 class DaoImpl implements  DaoI{
