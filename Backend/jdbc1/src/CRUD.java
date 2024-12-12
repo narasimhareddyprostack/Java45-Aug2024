@@ -83,7 +83,22 @@ public class CRUD {
         }
 
     }
-    public void updateData(){}
+    public void updateData() throws  SQLException{
+        String sql_st = "update employee set ename=? where eid=?;";
+        PreparedStatement st=con.prepareStatement(sql_st);
+        System.out.println("Enter Employee Name:");
+        String ename=sc.nextLine();
+        st.setString(1,ename);
+        System.out.println("Enter Employee ID:");
+        int eid= Integer.parseInt(sc.nextLine());
+        st.setInt(2,eid);
+        int rows=st.executeUpdate();
+        if(rows>0){
+            System.out.println("Data Updated");
+        }else{
+            System.out.println("Not Updated");
+        }
+    }
     public void deleteData() throws  SQLException{
         System.out.println("Enter Employee Id:");
         int empId=Integer.parseInt(sc.nextLine());
