@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Class-1-Basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ControlFlowSt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance-simple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-10-operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-12-IterativeSt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-2 -Basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-3 IdentifierandDT" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-5-Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-6-Variables-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-7-Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-8-Array2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-9-Array3-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packageEx" isTestSource="false" packagePrefix="pack1" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

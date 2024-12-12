@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4f7f7c1-5e8f-4387-a297-f6e3a0be4b19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CF/src/HashMapEx/HashMapOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx/ArrayListFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx/ArrayListFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx/ArrayListFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx/ArrayListFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx/ArrayListOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx/ArrayListOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx/ArrayListThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx/ArrayListThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx/ArrayListTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx/ArrayListTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx2/ArrayListOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx2/ArrayListOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx2/ArrayListThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx2/ArrayListThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ArrayListEx2/ArrayListTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/ArrayListEx2/ArrayListTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/HashSetEx/HashSetOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/HashSetEx/HashSetOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/HashSetEx/HashSetThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/HashSetEx/HashSetThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/HashSetEx/HashSetTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/HashSetEx/HashSetTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedHashSetEx/All.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedHashSetEx/All.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedHashSetEx/ArraysEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedHashSetEx/ArraysEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedHashSetEx/LinkedHashSetTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedHashSetEx/LinkedHashSetTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedListEx/ALvsLLEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedListEx/ALvsLLEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedListEx/ALvsLLExThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedListEx/ALvsLLExThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedListEx/ALvsLLExTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedListEx/ALvsLLExTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedListEx/LinkedListOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedListEx/LinkedListOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedListEx/LinkedListThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedListEx/LinkedListThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/LinkedListEx/LinkedListTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CF/src/LinkedListEx/LinkedListTwo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2npRLMbhuNNmescevfC6Jx7PS6d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Java45/Part-5&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="untitled.src.LinkedHashSetEx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.All">
+    <configuration name="All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.LinkedHashSetEx.All" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.LinkedHashSetEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListEx.ArrayListFive" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayListEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.LinkedHashSetEx.ArraysEx" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.LinkedHashSetEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashSetTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.LinkedHashSetEx.LinkedHashSetTwo" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.LinkedHashSetEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.All" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f7f7c1-5e8f-4387-a297-f6e3a0be4b19" name="Changes" comment="" />
+      <created>1729667974063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729667974063</updated>
+      <workItem from="1729667975321" duration="34000" />
+      <workItem from="1730125159121" duration="7000" />
+      <workItem from="1730185829331" duration="13000" />
+      <workItem from="1730185881589" duration="2536000" />
+      <workItem from="1730196508551" duration="54000" />
+      <workItem from="1730258130807" duration="251000" />
+      <workItem from="1730271934662" duration="466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

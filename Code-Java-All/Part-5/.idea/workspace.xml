@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4f7f7c1-5e8f-4387-a297-f6e3a0be4b19" name="Changes" comment="Happy Diwali" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2npRLMbhuNNmescevfC6Jx7PS6d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/Java45/Part-5/CF"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CF.src.HashMapEx" />
+      <recent name="untitled.src.LinkedHashSetEx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HashTableEx">
+    <configuration name="HashMapFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.HashMapEx.HashMapFour" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.HashMapEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.HashMapEx.HashMapOne" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.HashMapEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.HashMapEx.HashMapThree" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.HashMapEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.HashMapEx.HashMapTwo" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.HashMapEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF.src.HashMapEx.HashTableEx" />
+      <module name="Part-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CF.src.HashMapEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashTableEx" />
+        <item itemvalue="Application.HashMapFour" />
+        <item itemvalue="Application.HashMapThree" />
+        <item itemvalue="Application.HashMapTwo" />
+        <item itemvalue="Application.HashMapOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f7f7c1-5e8f-4387-a297-f6e3a0be4b19" name="Changes" comment="" />
+      <created>1729667974063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729667974063</updated>
+      <workItem from="1729667975321" duration="34000" />
+      <workItem from="1730125159121" duration="7000" />
+      <workItem from="1730185829331" duration="13000" />
+      <workItem from="1730185881589" duration="2536000" />
+      <workItem from="1730196508551" duration="54000" />
+      <workItem from="1730258130807" duration="251000" />
+      <workItem from="1730271934662" duration="3201000" />
+      <workItem from="1730706215029" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="Happy Diwali">
+      <created>1730276137690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730276137690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Happy Diwali" />
+    <option name="LAST_COMMIT_MESSAGE" value="Happy Diwali" />
+  </component>
+</project>
