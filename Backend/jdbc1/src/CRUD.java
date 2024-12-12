@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class CRUD {
     //load driver
-
     static Connection con;
     static Scanner sc = new Scanner(System.in);
     static CRUD obj=new CRUD();
