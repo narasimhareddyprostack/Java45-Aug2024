@@ -1,7 +1,13 @@
 package com.pro.demoweb;
 
+import com.fasterxml.jackson.databind.util.JSONPObject;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.HashMap;
+import java.util.Map;
 
 @RestController
 public class HelloController {
@@ -15,4 +21,5 @@ public class HelloController {
     public String sayGoodBye(){
         return "Hello,GoodBye";
     }
+
 }

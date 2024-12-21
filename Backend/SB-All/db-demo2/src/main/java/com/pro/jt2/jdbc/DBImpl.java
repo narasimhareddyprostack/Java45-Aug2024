@@ -26,7 +26,6 @@ public class DBImpl implements  Database{
 
         return jt.queryForList("select * from user;");
     }
-
     @Override
     public int noofUsers() {
         String sql_st = "select count(uid) from user;";
