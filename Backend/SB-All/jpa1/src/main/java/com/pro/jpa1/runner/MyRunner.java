@@ -8,10 +8,8 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class MyRunner implements CommandLineRunner {
-
     @Autowired
     ProductRepository repo;
-
     @Override
     public void run(String... args) throws Exception {
     // save product data in to product table
