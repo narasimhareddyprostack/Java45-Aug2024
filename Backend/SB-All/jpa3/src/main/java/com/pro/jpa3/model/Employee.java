@@ -1,36 +1,35 @@
-package com.pro.jpa2.model;
+package com.pro.jpa3.model;
 
 import jakarta.persistence.*;
 
 @Entity
-@Table(name="Employee_Tab")
+@Table(name="emp_tab")
 public class Employee {
-
     @Id
-    //@GeneratedValue(strategy = GenerationType.IDENTITY)
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
-    @Column(name = "eid")
-    private Integer empId;
-    @Column(name = "ename")
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(name="employeeId")
+    private  Integer empId;
+
+    @Column(name="employeeName")
     private String empName;
-    @Column(name = "esal")
-    private Double empSal;
+    @Column(name="Salary")
+    private  Double empSal;
+    //generate constructors,setter and getters and override toString
 
-    //generate overloaded constructor's and setter & getter,toString
-
-    public Employee(){
-        super();
+    public Employee() {
     }
+
     public Employee(Integer empId) {
         this.empId = empId;
     }
 
-    public Employee(String empName,Double empSal){
-        this.empName=empName;
-        this.empSal=empSal;
-    }
     public Employee(Integer empId, String empName, Double empSal) {
         this.empId = empId;
+        this.empName = empName;
+        this.empSal = empSal;
+    }
+
+    public Employee(String empName, Double empSal) {
         this.empName = empName;
         this.empSal = empSal;
     }

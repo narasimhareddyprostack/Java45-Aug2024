@@ -17,11 +17,11 @@ public class MyRunner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         //Insert records into  Database table - save
-        /*
+
         emp_Repo.save(new Employee("Rahul",45000.45));
         emp_Repo.save(new Employee("Sonai",55000.55));
         emp_Repo.save(new Employee("Priyanka",65000.65));
-         */
+
         /*
         //fetch employee record by Id;
         Optional<Employee> obj =emp_Repo.findById(5);
@@ -42,8 +42,8 @@ public class MyRunner implements CommandLineRunner {
 
         //delete all recors - using deleteAll() / deleteAllInBatch()
         //emp_Repo.deleteAll();
-       // emp_Repo.findAll().forEach(System.out::println);
-        emp_Repo.deleteAllInBatch();
+        //emp_Repo.findAll().forEach(System.out::println);
+        //emp_Repo.deleteAllInBatch();
 
     }
 }
