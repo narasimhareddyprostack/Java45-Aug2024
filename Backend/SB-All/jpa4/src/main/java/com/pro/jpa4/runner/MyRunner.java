@@ -6,6 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
+
 @Component
 public class MyRunner implements CommandLineRunner {
     @Autowired
@@ -13,6 +15,19 @@ public class MyRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        cust_Repo.save(new Customer(104,"Modi","New Delhi"));
+        //cust_Repo.save(new Customer(106,"Rahul","Wayanad"));
+
+        //cust_Repo.findByCustNameLike("M%").forEach(System.out::println);
+
+        //List<Customer> users =cust_Repo.findByCustNameLikeOrCustLoc("M%","Kochi");
+
+        //for(int i=0;i<=users.size()-1;i++){
+        //   System.out.println(users.get(i).getCustName()+"-"+users.get(i).getCustLoc());
+        //}
+
+        cust_Repo.findByCustNameLikeOrCustLoc("R%","Kochi")
+                .forEach((user)->{
+                    System.out.println(user.getCustName());
+                });
     }
 }
